@@ -4,7 +4,7 @@ For the Professional Certificate Capstone Project of IBM Python Data Science
 
 Summary of uploaded files are listed below.
 
-# Module 1 - Capstone Introduction and Understanding the Datasets
+## Module 1 - Capstone Introduction and Understanding the Datasets
 ### Lab 1
 
 Hands-on Lab: Complete the Data Collection API Lab (External resource)
