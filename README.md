@@ -7,5 +7,5 @@ Summary of uploaded files are listed below.
 ## Module 1 - Capstone Introduction and Understanding the Datasets
 ### Lab 1
 
-Hands-on Lab: Complete the Data Collection API Lab (External resource)
+Hands-on Lab: Complete the Data Collection API Lab (External resource) /n
 File Name: KP_jupyter-labs-spacex-data-collection-api
